@@ -8,5 +8,5 @@ Resources for COVID-19
 ## Anna Paisley
 ## Krish
 ## Barron Jones
-## heidiwinters
+## heidi 
 
